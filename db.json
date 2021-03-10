@@ -1,8 +1,124 @@
 {
-  "posts": [
+  "pesquisas": [
     {
       "id": 1,
-      "title": "hello"
+      "titulo": "Satisfação com produtos e serviços da loja Nike",
+	  "dataInicio" : "09/03/2021",
+	  "dataFim" : "31/03/2021",
+	  "perguntas": [
+		{
+			"id": 1,
+			"descricao": "Pensando em sua experiência geral na loja, o quanto a simpatia dos funcionários influenciou sua decisão de compra?",
+			"ativo",
+			"opcoesResposta": [
+				{
+					"id": 1,
+					"descricao": "Não influenciou nada."
+				},
+				{
+					"id": 2,
+					"descricao": "Pode ter influenciado pouco."
+				},
+				{
+					"id": 3,
+					"descricao": "Influenciou de forma pouco significativa."
+				},
+				{
+					"id": 4,
+					"descricao": "Influenciou parcialmente."
+				},
+				{
+					"id": 5
+					,
+					"descricao": "Influenciou totalmente."
+				}
+			]
+		},
+		{
+			"id": 2,
+			"descricao": "Qual é a probabilidade de você voltar à loja novamente?",
+			"ativo",
+			"opcoesResposta": [
+				{
+					"id": 1,
+					"descricao": "Improvável."
+				},
+				{
+					"id": 2,
+					"descricao": "Pouco provável."
+				},
+				{
+					"id": 3,
+					"descricao": "Posso voltar ocasionalmente."
+				},
+				{
+					"id": 4,
+					"descricao": "Posso voltar com certa frequência."
+				},
+				{
+					"id": 5
+					,
+					"descricao": "Totalmente provável."
+				}
+			]
+		},
+		{
+			"id": 3,
+			"descricao": "Qual é a probabilidade de você recomendar a loja a um amigo ou familiar?",
+			"ativo",
+			"opcoesResposta": [
+				{
+					"id": 1,
+					"descricao": "Improvável."
+				},
+				{
+					"id": 2,
+					"descricao": "Pouco provável."
+				},
+				{
+					"id": 3,
+					"descricao": "Posso recomendar quando for conveniente."
+				},
+				{
+					"id": 4,
+					"descricao": "Posso recomendar algumas vezes."
+				},
+				{
+					"id": 5
+					,
+					"descricao": "Totalmente provável de recomendar."
+				}
+			]
+		},
+		{
+			"id": 4,
+			"descricao": "Se fosse fazer somente um comentário sobre sua experiência, qual seria?",
+			"ativo",
+			"opcoesResposta": [
+				{
+					"id": 1,
+					"descricao": "Péssima experiência."
+				},
+				{
+					"id": 2,
+					"descricao": "Nada a declarar."
+				},
+				{
+					"id": 3,
+					"descricao": "Tive uma boa experiência."
+				},
+				{
+					"id": 4,
+					"descricao": "Estou positivamente surpreso com a experiência que tive."
+				},
+				{
+					"id": 5
+					,
+					"descricao": "Tive uma excelente experiência!"
+				}
+			]
+		},
+	  ]
     }
   ],
   "profile": {
