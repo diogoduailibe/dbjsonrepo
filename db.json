@@ -1,142 +1,142 @@
 {
-  "pesquisas": [
-    {
-      "id": 1,
-      "titulo": "Satisfação com produtos e serviços da loja Nike",
-	  "dataInicio" : "09/03/2021",
-	  "dataFim" : "31/03/2021",
-	  "perguntas": [
-		{
-			"id": 1,
-			"descricao": "Pensando em sua experiência geral na loja, o quanto a simpatia dos funcionários influenciou sua decisão de compra?",
-			"ativa": true,
-			"opcoesResposta": [
-				{
-					"id": 1,
-					"descricao": "Não influenciou nada.",
-					"selecionada": false
-				},
-				{
-					"id": 2,
-					"descricao": "Pode ter influenciado pouco.",
-					"selecionada": false
-				},
-				{
-					"id": 3,
-					"descricao": "Influenciou de forma pouco significativa.",
-					"selecionada": false
-				},
-				{
-					"id": 4,
-					"descricao": "Influenciou parcialmente."
-				},
-				{
-					"id": 5,
-					"descricao": "Influenciou totalmente.",
-					"selecionada": false
-				}
-			]
-		},
-		{
-			"id": 2,
-			"descricao": "Qual é a probabilidade de você voltar à loja novamente?",
-			"ativa": true,
-			"opcoesResposta": [
-				{
-					"id": 1,
-					"descricao": "Improvável.",
-					"selecionada": false
-				},
-				{
-					"id": 2,
-					"descricao": "Pouco provável.",
-					"selecionada": false
-				},
-				{
-					"id": 3,
-					"descricao": "Posso voltar ocasionalmente.",
-					"selecionada": false
-				},
-				{
-					"id": 4,
-					"descricao": "Posso voltar com certa frequência.",
-					"selecionada": false
-				},
-				{
-					"id": 5,
-					"descricao": "Totalmente provável.",
-					"selecionada": false
-				}
-			]
-		},
-		{
-			"id": 3,
-			"descricao": "Qual é a probabilidade de você recomendar a loja a um amigo ou familiar?",
-			"ativa": true,
-			"opcoesResposta": [
-				{
-					"id": 1,
-					"descricao": "Improvável.",
-					"selecionada": false
-				},
-				{
-					"id": 2,
-					"descricao": "Pouco provável.",
-					"selecionada": false
-				},
-				{
-					"id": 3,
-					"descricao": "Posso recomendar quando for conveniente.",
-					"selecionada": false
-				},
-				{
-					"id": 4,
-					"descricao": "Posso recomendar algumas vezes.",
-					"selecionada": false
-				},
-				{
-					"id": 5,
-					"descricao": "Totalmente provável de recomendar.",
-					"selecionada": false
-				}
-			]
-		},
-		{
-			"id": 4,
-			"descricao": "Se fosse fazer somente um comentário sobre sua experiência, qual seria?",
-			"ativa": true,
-			"opcoesResposta": [
-				{
-					"id": 1,
-					"descricao": "Péssima experiência.",
-					"selecionada": false
-				},
-				{
-					"id": 2,
-					"descricao": "Nada a declarar.",
-					"selecionada": false
-				},
-				{
-					"id": 3,
-					"descricao": "Tive uma boa experiência.",
-					"selecionada": false
-				},
-				{
-					"id": 4,
-					"descricao": "Estou positivamente surpreso com a experiência que tive.",
-					"selecionada": false
-				},
-				{
-					"id": 5,
-					"descricao": "Tive uma excelente experiência!",
-					"selecionada": false
-				}
-			]
-		},
-	  ]
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "pesquisas":[
+      {
+         "id":1,
+         "titulo":"Satisfação com produtos e serviços da loja Nike",
+         "dataInicio":"09/03/2021",
+         "dataFim":"31/03/2021",
+         "perguntas":[
+            {
+               "id":1,
+               "descricao":"Pensando em sua experiência geral na loja, o quanto a simpatia dos funcionários influenciou sua decisão de compra?",
+               "ativa":true,
+               "opcoesResposta":[
+                  {
+                     "id":1,
+                     "descricao":"Não influenciou nada.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":2,
+                     "descricao":"Pode ter influenciado pouco.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":3,
+                     "descricao":"Influenciou de forma pouco significativa.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":4,
+                     "descricao":"Influenciou parcialmente."
+                  },
+                  {
+                     "id":5,
+                     "descricao":"Influenciou totalmente.",
+                     "selecionada":false
+                  }
+               ]
+            },
+            {
+               "id":2,
+               "descricao":"Qual é a probabilidade de você voltar à loja novamente?",
+               "ativa":true,
+               "opcoesResposta":[
+                  {
+                     "id":1,
+                     "descricao":"Improvável.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":2,
+                     "descricao":"Pouco provável.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":3,
+                     "descricao":"Posso voltar ocasionalmente.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":4,
+                     "descricao":"Posso voltar com certa frequência.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":5,
+                     "descricao":"Totalmente provável.",
+                     "selecionada":false
+                  }
+               ]
+            },
+            {
+               "id":3,
+               "descricao":"Qual é a probabilidade de você recomendar a loja a um amigo ou familiar?",
+               "ativa":true,
+               "opcoesResposta":[
+                  {
+                     "id":1,
+                     "descricao":"Improvável.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":2,
+                     "descricao":"Pouco provável.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":3,
+                     "descricao":"Posso recomendar quando for conveniente.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":4,
+                     "descricao":"Posso recomendar algumas vezes.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":5,
+                     "descricao":"Totalmente provável de recomendar.",
+                     "selecionada":false
+                  }
+               ]
+            },
+            {
+               "id":4,
+               "descricao":"Se fosse fazer somente um comentário sobre sua experiência, qual seria?",
+               "ativa":true,
+               "opcoesResposta":[
+                  {
+                     "id":1,
+                     "descricao":"Péssima experiência.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":2,
+                     "descricao":"Nada a declarar.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":3,
+                     "descricao":"Tive uma boa experiência.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":4,
+                     "descricao":"Estou positivamente surpreso com a experiência que tive.",
+                     "selecionada":false
+                  },
+                  {
+                     "id":5,
+                     "descricao":"Tive uma excelente experiência!",
+                     "selecionada":false
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
