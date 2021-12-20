@@ -3,7 +3,7 @@
 	"prescription": {
 		"signatureFiles": [
 			{
-				"url": "https://github.com/diogoduailibe/dbjsonrepo/raw/main/conduta.pdf"
+				"url": "https://raw.githubusercontent.com/diogoduailibe/dbjsonrepo/main/conduta.pdf"
 			}
 		]
 	}
